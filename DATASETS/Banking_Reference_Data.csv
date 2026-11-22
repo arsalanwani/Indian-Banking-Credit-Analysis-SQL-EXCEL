@@ -1,0 +1,751 @@
+State_Code,State,District_Code,District,Region
+35,Andaman And Nicobar Islands,632,North And Middle Andaman,Eastern Region
+35,Andaman And Nicobar Islands,602,South Andamans,Eastern Region
+28,Andhra Pradesh,744,Anakapalli,Southern Region
+28,Andhra Pradesh,502,Anantapur,Southern Region
+28,Andhra Pradesh,753,Annamayya,Southern Region
+28,Andhra Pradesh,750,Bapatla,Southern Region
+28,Andhra Pradesh,503,Chittoor,Southern Region
+28,Andhra Pradesh,505,East Godavari,Southern Region
+28,Andhra Pradesh,748,Eluru,Southern Region
+28,Andhra Pradesh,506,Guntur,Southern Region
+28,Andhra Pradesh,746,Kakinada,Southern Region
+28,Andhra Pradesh,747,Konaseema,Southern Region
+28,Andhra Pradesh,510,Krishna,Southern Region
+28,Andhra Pradesh,511,Kurnool,Southern Region
+28,Andhra Pradesh,755,Nandyal,Southern Region
+28,Andhra Pradesh,749,Ntr,Southern Region
+28,Andhra Pradesh,751,Palnadu,Southern Region
+28,Andhra Pradesh,743,Parvathipuram Manyam,Southern Region
+28,Andhra Pradesh,517,Prakasam,Southern Region
+28,Andhra Pradesh,515,Spsr Nellore,Southern Region
+28,Andhra Pradesh,754,Sri Sathya Sai,Southern Region
+28,Andhra Pradesh,519,Srikakulam,Southern Region
+28,Andhra Pradesh,752,Tirupati,Southern Region
+28,Andhra Pradesh,520,Visakhapatanam,Southern Region
+28,Andhra Pradesh,521,Vizianagaram,Southern Region
+28,Andhra Pradesh,523,West Godavari,Southern Region
+28,Andhra Pradesh,504,Y.S.R.,Southern Region
+12,Arunachal Pradesh,229,Changlang,North Eastern Region
+12,Arunachal Pradesh,231,East Kameng,North Eastern Region
+12,Arunachal Pradesh,232,East Siang,North Eastern Region
+12,Arunachal Pradesh,724,Leparada,North Eastern Region
+12,Arunachal Pradesh,234,Lohit,North Eastern Region
+12,Arunachal Pradesh,666,Longding,North Eastern Region
+12,Arunachal Pradesh,235,Lower Dibang Valley,North Eastern Region
+12,Arunachal Pradesh,719,Lower Siang,North Eastern Region
+12,Arunachal Pradesh,236,Lower Subansiri,North Eastern Region
+12,Arunachal Pradesh,678,Namsai,North Eastern Region
+12,Arunachal Pradesh,237,Papum Pare,North Eastern Region
+12,Arunachal Pradesh,679,Siang,North Eastern Region
+12,Arunachal Pradesh,238,Tawang,North Eastern Region
+12,Arunachal Pradesh,240,Upper Siang,North Eastern Region
+12,Arunachal Pradesh,241,Upper Subansiri,North Eastern Region
+12,Arunachal Pradesh,242,West Kameng,North Eastern Region
+12,Arunachal Pradesh,243,West Siang,North Eastern Region
+18,Assam,616,Baksa,North Eastern Region
+18,Assam,280,Barpeta,North Eastern Region
+18,Assam,705,Biswanath,North Eastern Region
+18,Assam,281,Bongaigaon,North Eastern Region
+18,Assam,282,Cachar,North Eastern Region
+18,Assam,708,Charaideo,North Eastern Region
+18,Assam,612,Chirang,North Eastern Region
+18,Assam,283,Darrang,North Eastern Region
+18,Assam,284,Dhemaji,North Eastern Region
+18,Assam,285,Dhubri,North Eastern Region
+18,Assam,286,Dibrugarh,North Eastern Region
+18,Assam,299,Dima Hasao,North Eastern Region
+18,Assam,287,Goalpara,North Eastern Region
+18,Assam,288,Golaghat,North Eastern Region
+18,Assam,289,Hailakandi,North Eastern Region
+18,Assam,709,Hojai,North Eastern Region
+18,Assam,290,Jorhat,North Eastern Region
+18,Assam,291,Kamrup,North Eastern Region
+18,Assam,618,Kamrup Metro,North Eastern Region
+18,Assam,292,Karbi Anglong,North Eastern Region
+18,Assam,293,Karimganj,North Eastern Region
+18,Assam,294,Kokrajhar,North Eastern Region
+18,Assam,295,Lakhimpur,North Eastern Region
+18,Assam,706,Majuli,North Eastern Region
+18,Assam,296,Marigaon,North Eastern Region
+18,Assam,297,Nagaon,North Eastern Region
+18,Assam,298,Nalbari,North Eastern Region
+18,Assam,300,Sivasagar,North Eastern Region
+18,Assam,301,Sonitpur,North Eastern Region
+18,Assam,707,South Salmara Mancachar,North Eastern Region
+18,Assam,302,Tinsukia,North Eastern Region
+18,Assam,617,Udalguri,North Eastern Region
+18,Assam,710,West Karbi Anglong,North Eastern Region
+10,Bihar,188,Araria,Eastern Region
+10,Bihar,611,Arwal,Eastern Region
+10,Bihar,189,Aurangabad,Eastern Region
+10,Bihar,190,Banka,Eastern Region
+10,Bihar,191,Begusarai,Eastern Region
+10,Bihar,192,Bhagalpur,Eastern Region
+10,Bihar,193,Bhojpur,Eastern Region
+10,Bihar,194,Buxar,Eastern Region
+10,Bihar,195,Darbhanga,Eastern Region
+10,Bihar,196,Gaya,Eastern Region
+10,Bihar,197,Gopalganj,Eastern Region
+10,Bihar,198,Jamui,Eastern Region
+10,Bihar,199,Jehanabad,Eastern Region
+10,Bihar,200,Kaimur (Bhabua),Eastern Region
+10,Bihar,201,Katihar,Eastern Region
+10,Bihar,202,Khagaria,Eastern Region
+10,Bihar,203,Kishanganj,Eastern Region
+10,Bihar,204,Lakhisarai,Eastern Region
+10,Bihar,205,Madhepura,Eastern Region
+10,Bihar,206,Madhubani,Eastern Region
+10,Bihar,207,Munger,Eastern Region
+10,Bihar,208,Muzaffarpur,Eastern Region
+10,Bihar,209,Nalanda,Eastern Region
+10,Bihar,210,Nawada,Eastern Region
+10,Bihar,211,Pashchim Champaran,Eastern Region
+10,Bihar,212,Patna,Eastern Region
+10,Bihar,213,Purbi Champaran,Eastern Region
+10,Bihar,214,Purnia,Eastern Region
+10,Bihar,215,Rohtas,Eastern Region
+10,Bihar,216,Saharsa,Eastern Region
+10,Bihar,217,Samastipur,Eastern Region
+10,Bihar,218,Saran,Eastern Region
+10,Bihar,219,Sheikhpura,Eastern Region
+10,Bihar,220,Sheohar,Eastern Region
+10,Bihar,221,Sitamarhi,Eastern Region
+10,Bihar,222,Siwan,Eastern Region
+10,Bihar,223,Supaul,Eastern Region
+10,Bihar,224,Vaishali,Eastern Region
+4,Chandigarh,44,Chandigarh,Northern Region
+22,Chhattisgarh,646,Balod,Central Region
+22,Chhattisgarh,644,Baloda Bazar,Central Region
+22,Chhattisgarh,649,Balrampur,Central Region
+22,Chhattisgarh,374,Bastar,Central Region
+22,Chhattisgarh,650,Bemetara,Central Region
+22,Chhattisgarh,636,Bijapur,Central Region
+22,Chhattisgarh,375,Bilaspur,Central Region
+22,Chhattisgarh,376,Dantewada,Central Region
+22,Chhattisgarh,377,Dhamtari,Central Region
+22,Chhattisgarh,378,Durg,Central Region
+22,Chhattisgarh,645,Gariyaband,Central Region
+22,Chhattisgarh,734,Gaurella Pendra Marwahi,Central Region
+22,Chhattisgarh,379,Janjgir-Champa,Central Region
+22,Chhattisgarh,380,Jashpur,Central Region
+22,Chhattisgarh,382,Kabirdham,Central Region
+22,Chhattisgarh,381,Kanker,Central Region
+22,Chhattisgarh,759,Khairgarh Chhuikhadan Gandai,Central Region
+22,Chhattisgarh,643,Kondagaon,Central Region
+22,Chhattisgarh,383,Korba,Central Region
+22,Chhattisgarh,384,Korea,Central Region
+22,Chhattisgarh,385,Mahasamund,Central Region
+22,Chhattisgarh,647,Mungeli,Central Region
+22,Chhattisgarh,637,Narayanpur,Central Region
+22,Chhattisgarh,386,Raigarh,Central Region
+22,Chhattisgarh,387,Raipur,Central Region
+22,Chhattisgarh,388,Rajnandgaon,Central Region
+22,Chhattisgarh,762,Sakti,Central Region
+22,Chhattisgarh,763,Sarangarh Bilaigarh,Central Region
+22,Chhattisgarh,642,Sukma,Central Region
+22,Chhattisgarh,648,Surajpur,Central Region
+22,Chhattisgarh,389,Surguja,Central Region
+7,Delhi,77,Central,Northern Region
+7,Delhi,78,East,Northern Region
+7,Delhi,79,New Delhi,Northern Region
+7,Delhi,80,North,Northern Region
+7,Delhi,81,North East,Northern Region
+7,Delhi,82,North West,Northern Region
+7,Delhi,671,Shahdara,Northern Region
+7,Delhi,83,South,Northern Region
+7,Delhi,670,South East,Northern Region
+7,Delhi,84,South West,Northern Region
+7,Delhi,85,West,Northern Region
+30,Goa,551,North Goa,Western Region
+30,Goa,552,South Goa,Western Region
+24,Gujarat,438,Ahmadabad,Western Region
+24,Gujarat,439,Amreli,Western Region
+24,Gujarat,440,Anand,Western Region
+24,Gujarat,672,Arvalli,Western Region
+24,Gujarat,441,Banas Kantha,Western Region
+24,Gujarat,442,Bharuch,Western Region
+24,Gujarat,443,Bhavnagar,Western Region
+24,Gujarat,676,Botad,Western Region
+24,Gujarat,668,Chhotaudepur,Western Region
+24,Gujarat,444,Dang,Western Region
+24,Gujarat,674,Devbhumi Dwarka,Western Region
+24,Gujarat,445,Dohad,Western Region
+24,Gujarat,446,Gandhinagar,Western Region
+24,Gujarat,675,Gir Somnath,Western Region
+24,Gujarat,447,Jamnagar,Western Region
+24,Gujarat,448,Junagadh,Western Region
+24,Gujarat,449,Kachchh,Western Region
+24,Gujarat,450,Kheda,Western Region
+24,Gujarat,451,Mahesana,Western Region
+24,Gujarat,669,Mahisagar,Western Region
+24,Gujarat,673,Morbi,Western Region
+24,Gujarat,452,Narmada,Western Region
+24,Gujarat,453,Navsari,Western Region
+24,Gujarat,454,Panch Mahals,Western Region
+24,Gujarat,455,Patan,Western Region
+24,Gujarat,456,Porbandar,Western Region
+24,Gujarat,457,Rajkot,Western Region
+24,Gujarat,458,Sabar Kantha,Western Region
+24,Gujarat,459,Surat,Western Region
+24,Gujarat,460,Surendranagar,Western Region
+24,Gujarat,641,Tapi,Western Region
+24,Gujarat,461,Vadodara,Western Region
+24,Gujarat,462,Valsad,Western Region
+6,Haryana,58,Ambala,Northern Region
+6,Haryana,59,Bhiwani,Northern Region
+6,Haryana,701,Charki Dadri,Northern Region
+6,Haryana,60,Faridabad,Northern Region
+6,Haryana,61,Fatehabad,Northern Region
+6,Haryana,62,Gurugram,Northern Region
+6,Haryana,63,Hisar,Northern Region
+6,Haryana,64,Jhajjar,Northern Region
+6,Haryana,65,Jind,Northern Region
+6,Haryana,66,Kaithal,Northern Region
+6,Haryana,67,Karnal,Northern Region
+6,Haryana,68,Kurukshetra,Northern Region
+6,Haryana,69,Mahendragarh,Northern Region
+6,Haryana,604,Nuh,Northern Region
+6,Haryana,619,Palwal,Northern Region
+6,Haryana,70,Panchkula,Northern Region
+6,Haryana,71,Panipat,Northern Region
+6,Haryana,72,Rewari,Northern Region
+6,Haryana,73,Rohtak,Northern Region
+6,Haryana,74,Sirsa,Northern Region
+6,Haryana,75,Sonipat,Northern Region
+6,Haryana,76,Yamunanagar,Northern Region
+2,Himachal Pradesh,15,Bilaspur,Northern Region
+2,Himachal Pradesh,375,Bilaspur,Northern Region
+2,Himachal Pradesh,16,Chamba,Northern Region
+2,Himachal Pradesh,17,Hamirpur,Northern Region
+2,Himachal Pradesh,18,Kangra,Northern Region
+2,Himachal Pradesh,19,Kinnaur,Northern Region
+2,Himachal Pradesh,20,Kullu,Northern Region
+2,Himachal Pradesh,21,Lahul And Spiti,Northern Region
+2,Himachal Pradesh,22,Mandi,Northern Region
+2,Himachal Pradesh,23,Shimla,Northern Region
+2,Himachal Pradesh,24,Sirmaur,Northern Region
+2,Himachal Pradesh,25,Solan,Northern Region
+2,Himachal Pradesh,26,Una,Northern Region
+1,Jammu And Kashmir,1,Anantnag,Northern Region
+1,Jammu And Kashmir,623,Bandipora,Northern Region
+1,Jammu And Kashmir,3,Baramulla,Northern Region
+1,Jammu And Kashmir,2,Budgam,Northern Region
+1,Jammu And Kashmir,4,Doda,Northern Region
+1,Jammu And Kashmir,626,Ganderbal,Northern Region
+1,Jammu And Kashmir,5,Jammu,Northern Region
+1,Jammu And Kashmir,6,Kargil,Northern Region
+1,Jammu And Kashmir,7,Kathua,Northern Region
+1,Jammu And Kashmir,620,Kishtwar,Northern Region
+1,Jammu And Kashmir,622,Kulgam,Northern Region
+1,Jammu And Kashmir,8,Kupwara,Northern Region
+1,Jammu And Kashmir,9,Leh Ladakh,Northern Region
+1,Jammu And Kashmir,10,Poonch,Northern Region
+1,Jammu And Kashmir,11,Pulwama,Northern Region
+1,Jammu And Kashmir,12,Rajouri,Northern Region
+1,Jammu And Kashmir,621,Ramban,Northern Region
+1,Jammu And Kashmir,627,Reasi,Northern Region
+1,Jammu And Kashmir,624,Samba,Northern Region
+1,Jammu And Kashmir,625,Shopian,Northern Region
+1,Jammu And Kashmir,13,Srinagar,Northern Region
+1,Jammu And Kashmir,14,Udhampur,Northern Region
+20,Jharkhand,322,Bokaro,Eastern Region
+20,Jharkhand,323,Chatra,Eastern Region
+20,Jharkhand,324,Deoghar,Eastern Region
+20,Jharkhand,325,Dhanbad,Eastern Region
+20,Jharkhand,326,Dumka,Eastern Region
+20,Jharkhand,327,East Singhbum,Eastern Region
+20,Jharkhand,328,Garhwa,Eastern Region
+20,Jharkhand,329,Giridih,Eastern Region
+20,Jharkhand,330,Godda,Eastern Region
+20,Jharkhand,331,Gumla,Eastern Region
+20,Jharkhand,332,Hazaribagh,Eastern Region
+20,Jharkhand,333,Jamtara,Eastern Region
+20,Jharkhand,606,Khunti,Eastern Region
+20,Jharkhand,334,Koderma,Eastern Region
+20,Jharkhand,335,Latehar,Eastern Region
+20,Jharkhand,336,Lohardaga,Eastern Region
+20,Jharkhand,337,Pakur,Eastern Region
+20,Jharkhand,338,Palamu,Eastern Region
+20,Jharkhand,607,Ramgarh,Eastern Region
+20,Jharkhand,339,Ranchi,Eastern Region
+20,Jharkhand,340,Sahebganj,Eastern Region
+20,Jharkhand,341,Saraikela Kharsawan,Eastern Region
+20,Jharkhand,342,Simdega,Eastern Region
+20,Jharkhand,343,West Singhbhum,Eastern Region
+29,Karnataka,524,Bagalkote,Southern Region
+29,Karnataka,528,Ballari,Southern Region
+29,Karnataka,527,Belagavi,Southern Region
+29,Karnataka,526,Bengaluru Rural,Southern Region
+29,Karnataka,525,Bengaluru Urban,Southern Region
+29,Karnataka,529,Bidar,Southern Region
+29,Karnataka,636,Bijapur,Southern Region
+29,Karnataka,531,Chamarajanagara,Southern Region
+29,Karnataka,630,Chikkaballapura,Southern Region
+29,Karnataka,532,Chikkamagaluru,Southern Region
+29,Karnataka,533,Chitradurga,Southern Region
+29,Karnataka,534,Dakshina Kannada,Southern Region
+29,Karnataka,535,Davangere,Southern Region
+29,Karnataka,536,Dharwad,Southern Region
+29,Karnataka,537,Gadag,Southern Region
+29,Karnataka,539,Hassan,Southern Region
+29,Karnataka,540,Haveri,Southern Region
+29,Karnataka,538,Kalaburagi,Southern Region
+29,Karnataka,541,Kodagu,Southern Region
+29,Karnataka,542,Kolar,Southern Region
+29,Karnataka,543,Koppal,Southern Region
+29,Karnataka,544,Mandya,Southern Region
+29,Karnataka,545,Mysuru,Southern Region
+29,Karnataka,546,Raichur,Southern Region
+29,Karnataka,631,Ramanagara,Southern Region
+29,Karnataka,547,Shivamogga,Southern Region
+29,Karnataka,548,Tumakuru,Southern Region
+29,Karnataka,549,Udupi,Southern Region
+29,Karnataka,550,Uttara Kannada,Southern Region
+29,Karnataka,738,Vijayanagar,Southern Region
+29,Karnataka,530,Vijayapura,Southern Region
+29,Karnataka,635,Yadgir,Southern Region
+32,Kerala,554,Alappuzha,Southern Region
+32,Kerala,555,Ernakulam,Southern Region
+32,Kerala,556,Idukki,Southern Region
+32,Kerala,557,Kannur,Southern Region
+32,Kerala,558,Kasaragod,Southern Region
+32,Kerala,559,Kollam,Southern Region
+32,Kerala,560,Kottayam,Southern Region
+32,Kerala,561,Kozhikode,Southern Region
+32,Kerala,562,Malappuram,Southern Region
+32,Kerala,563,Palakkad,Southern Region
+32,Kerala,564,Pathanamthitta,Southern Region
+32,Kerala,565,Thiruvananthapuram,Southern Region
+32,Kerala,566,Thrissur,Southern Region
+32,Kerala,567,Wayanad,Southern Region
+37,Ladakh,6,Kargil,Northern Region
+37,Ladakh,9,Leh Ladakh,Northern Region
+31,Lakshadweep,553,Lakshadweep District,Southern Region
+23,Madhya Pradesh,667,Agar Malwa,Central Region
+23,Madhya Pradesh,639,Alirajpur,Central Region
+23,Madhya Pradesh,390,Anuppur,Central Region
+23,Madhya Pradesh,391,Ashoknagar,Central Region
+23,Madhya Pradesh,392,Balaghat,Central Region
+23,Madhya Pradesh,393,Barwani,Central Region
+23,Madhya Pradesh,394,Betul,Central Region
+23,Madhya Pradesh,395,Bhind,Central Region
+23,Madhya Pradesh,396,Bhopal,Central Region
+23,Madhya Pradesh,397,Burhanpur,Central Region
+23,Madhya Pradesh,398,Chhatarpur,Central Region
+23,Madhya Pradesh,399,Chhindwara,Central Region
+23,Madhya Pradesh,400,Damoh,Central Region
+23,Madhya Pradesh,401,Datia,Central Region
+23,Madhya Pradesh,402,Dewas,Central Region
+23,Madhya Pradesh,403,Dhar,Central Region
+23,Madhya Pradesh,404,Dindori,Central Region
+23,Madhya Pradesh,405,East Nimar,Central Region
+23,Madhya Pradesh,406,Guna,Central Region
+23,Madhya Pradesh,407,Gwalior,Central Region
+23,Madhya Pradesh,408,Harda,Central Region
+23,Madhya Pradesh,409,Hoshangabad,Central Region
+23,Madhya Pradesh,410,Indore,Central Region
+23,Madhya Pradesh,411,Jabalpur,Central Region
+23,Madhya Pradesh,412,Jhabua,Central Region
+23,Madhya Pradesh,413,Katni,Central Region
+23,Madhya Pradesh,414,Khargone,Central Region
+23,Madhya Pradesh,415,Mandla,Central Region
+23,Madhya Pradesh,416,Mandsaur,Central Region
+23,Madhya Pradesh,417,Morena,Central Region
+23,Madhya Pradesh,418,Narsinghpur,Central Region
+23,Madhya Pradesh,419,Neemuch,Central Region
+23,Madhya Pradesh,722,Niwari,Central Region
+23,Madhya Pradesh,420,Panna,Central Region
+23,Madhya Pradesh,421,Raisen,Central Region
+23,Madhya Pradesh,422,Rajgarh,Central Region
+23,Madhya Pradesh,423,Ratlam,Central Region
+23,Madhya Pradesh,424,Rewa,Central Region
+23,Madhya Pradesh,425,Sagar,Central Region
+23,Madhya Pradesh,426,Satna,Central Region
+23,Madhya Pradesh,427,Sehore,Central Region
+23,Madhya Pradesh,428,Seoni,Central Region
+23,Madhya Pradesh,429,Shahdol,Central Region
+23,Madhya Pradesh,430,Shajapur,Central Region
+23,Madhya Pradesh,431,Sheopur,Central Region
+23,Madhya Pradesh,432,Shivpuri,Central Region
+23,Madhya Pradesh,433,Sidhi,Central Region
+23,Madhya Pradesh,638,Singrauli,Central Region
+23,Madhya Pradesh,434,Tikamgarh,Central Region
+23,Madhya Pradesh,435,Ujjain,Central Region
+23,Madhya Pradesh,436,Umaria,Central Region
+23,Madhya Pradesh,437,Vidisha,Central Region
+27,Maharashtra,466,Ahmednagar,Western Region
+27,Maharashtra,467,Akola,Western Region
+27,Maharashtra,468,Amravati,Western Region
+27,Maharashtra,189,Aurangabad,Western Region
+27,Maharashtra,469,Aurangabad,Western Region
+27,Maharashtra,470,Beed,Western Region
+27,Maharashtra,471,Bhandara,Western Region
+27,Maharashtra,472,Buldhana,Western Region
+27,Maharashtra,473,Chandrapur,Western Region
+27,Maharashtra,474,Dhule,Western Region
+27,Maharashtra,475,Gadchiroli,Western Region
+27,Maharashtra,476,Gondia,Western Region
+27,Maharashtra,477,Hingoli,Western Region
+27,Maharashtra,478,Jalgaon,Western Region
+27,Maharashtra,479,Jalna,Western Region
+27,Maharashtra,480,Kolhapur,Western Region
+27,Maharashtra,481,Latur,Western Region
+27,Maharashtra,482,Mumbai,Western Region
+27,Maharashtra,483,Mumbai Suburban,Western Region
+27,Maharashtra,484,Nagpur,Western Region
+27,Maharashtra,485,Nanded,Western Region
+27,Maharashtra,486,Nandurbar,Western Region
+27,Maharashtra,487,Nashik,Western Region
+27,Maharashtra,488,Osmanabad,Western Region
+27,Maharashtra,665,Palghar,Western Region
+27,Maharashtra,489,Parbhani,Western Region
+27,Maharashtra,490,Pune,Western Region
+27,Maharashtra,491,Raigad,Western Region
+27,Maharashtra,492,Ratnagiri,Western Region
+27,Maharashtra,493,Sangli,Western Region
+27,Maharashtra,494,Satara,Western Region
+27,Maharashtra,495,Sindhudurg,Western Region
+27,Maharashtra,496,Solapur,Western Region
+27,Maharashtra,497,Thane,Western Region
+27,Maharashtra,498,Wardha,Western Region
+27,Maharashtra,499,Washim,Western Region
+27,Maharashtra,500,Yavatmal,Western Region
+14,Manipur,252,Bishnupur,North Eastern Region
+14,Manipur,253,Chandel,North Eastern Region
+14,Manipur,254,Churachandpur,North Eastern Region
+14,Manipur,255,Imphal East,North Eastern Region
+14,Manipur,256,Imphal West,North Eastern Region
+14,Manipur,713,Jiribam,North Eastern Region
+14,Manipur,711,Kakching,North Eastern Region
+14,Manipur,717,Kamjong,North Eastern Region
+14,Manipur,712,Kangpokpi,North Eastern Region
+14,Manipur,714,Noney,North Eastern Region
+14,Manipur,257,Senapati,North Eastern Region
+14,Manipur,258,Tamenglong,North Eastern Region
+14,Manipur,716,Tengnoupal,North Eastern Region
+14,Manipur,259,Thoubal,North Eastern Region
+14,Manipur,260,Ukhrul,North Eastern Region
+17,Meghalaya,273,East Garo Hills,North Eastern Region
+17,Meghalaya,657,East Jaintia Hills,North Eastern Region
+17,Meghalaya,274,East Khasi Hills,North Eastern Region
+17,Meghalaya,656,North Garo Hills,North Eastern Region
+17,Meghalaya,276,Ri Bhoi,North Eastern Region
+17,Meghalaya,277,South Garo Hills,North Eastern Region
+17,Meghalaya,663,South West Garo Hills,North Eastern Region
+17,Meghalaya,658,South West Khasi Hills,North Eastern Region
+17,Meghalaya,278,West Garo Hills,North Eastern Region
+17,Meghalaya,275,West Jaintia Hills,North Eastern Region
+17,Meghalaya,279,West Khasi Hills,North Eastern Region
+15,Mizoram,261,Aizawl,North Eastern Region
+15,Mizoram,262,Champhai,North Eastern Region
+15,Mizoram,726,Hnahthial,North Eastern Region
+15,Mizoram,728,Khawzawl,North Eastern Region
+15,Mizoram,263,Kolasib,North Eastern Region
+15,Mizoram,264,Lawngtlai,North Eastern Region
+15,Mizoram,265,Lunglei,North Eastern Region
+15,Mizoram,266,Mamit,North Eastern Region
+15,Mizoram,267,Saiha,North Eastern Region
+15,Mizoram,727,Saitual,North Eastern Region
+15,Mizoram,268,Serchhip,North Eastern Region
+13,Nagaland,244,Dimapur,North Eastern Region
+13,Nagaland,245,Kohima,North Eastern Region
+13,Nagaland,615,Longleng,North Eastern Region
+13,Nagaland,246,Mokokchung,North Eastern Region
+13,Nagaland,247,Mon,North Eastern Region
+13,Nagaland,613,Peren,North Eastern Region
+13,Nagaland,248,Phek,North Eastern Region
+13,Nagaland,765,Shamator,North Eastern Region
+13,Nagaland,249,Tuensang,North Eastern Region
+13,Nagaland,250,Wokha,North Eastern Region
+13,Nagaland,251,Zunheboto,North Eastern Region
+21,Odisha,344,Anugul,Eastern Region
+21,Odisha,345,Balangir,Eastern Region
+21,Odisha,346,Baleshwar,Eastern Region
+21,Odisha,347,Bargarh,Eastern Region
+21,Odisha,348,Bhadrak,Eastern Region
+21,Odisha,349,Boudh,Eastern Region
+21,Odisha,350,Cuttack,Eastern Region
+21,Odisha,351,Deogarh,Eastern Region
+21,Odisha,352,Dhenkanal,Eastern Region
+21,Odisha,353,Gajapati,Eastern Region
+21,Odisha,354,Ganjam,Eastern Region
+21,Odisha,355,Jagatsinghapur,Eastern Region
+21,Odisha,356,Jajapur,Eastern Region
+21,Odisha,357,Jharsuguda,Eastern Region
+21,Odisha,358,Kalahandi,Eastern Region
+21,Odisha,359,Kandhamal,Eastern Region
+21,Odisha,360,Kendrapara,Eastern Region
+21,Odisha,361,Kendujhar,Eastern Region
+21,Odisha,362,Khordha,Eastern Region
+21,Odisha,363,Koraput,Eastern Region
+21,Odisha,364,Malkangiri,Eastern Region
+21,Odisha,365,Mayurbhanj,Eastern Region
+21,Odisha,366,Nabarangpur,Eastern Region
+21,Odisha,367,Nayagarh,Eastern Region
+21,Odisha,368,Nuapada,Eastern Region
+21,Odisha,369,Puri,Eastern Region
+21,Odisha,370,Rayagada,Eastern Region
+21,Odisha,371,Sambalpur,Eastern Region
+21,Odisha,372,Sonepur,Eastern Region
+21,Odisha,373,Sundargarh,Eastern Region
+34,Puducherry,598,Karaikal,Southern Region
+34,Puducherry,599,Mahe,Southern Region
+34,Puducherry,600,Pondicherry,Southern Region
+34,Puducherry,601,Yanam,Southern Region
+3,Punjab,27,Amritsar,Northern Region
+3,Punjab,605,Barnala,Northern Region
+3,Punjab,28,Bathinda,Northern Region
+3,Punjab,29,Faridkot,Northern Region
+3,Punjab,30,Fatehgarh Sahib,Northern Region
+3,Punjab,651,Fazilka,Northern Region
+3,Punjab,31,Firozepur,Northern Region
+3,Punjab,32,Gurdaspur,Northern Region
+3,Punjab,33,Hoshiarpur,Northern Region
+3,Punjab,34,Jalandhar,Northern Region
+3,Punjab,35,Kapurthala,Northern Region
+3,Punjab,36,Ludhiana,Northern Region
+3,Punjab,737,Malerkotla,Northern Region
+3,Punjab,37,Mansa,Northern Region
+3,Punjab,38,Moga,Northern Region
+3,Punjab,662,Pathankot,Northern Region
+3,Punjab,41,Patiala,Northern Region
+3,Punjab,42,Rupnagar,Northern Region
+3,Punjab,608,S.A.S Nagar,Northern Region
+3,Punjab,43,Sangrur,Northern Region
+3,Punjab,40,Shahid Bhagat Singh Nagar,Northern Region
+3,Punjab,39,Sri Muktsar Sahib,Northern Region
+3,Punjab,609,Tarn Taran,Northern Region
+8,Rajasthan,86,Ajmer,Northern Region
+8,Rajasthan,87,Alwar,Northern Region
+8,Rajasthan,88,Banswara,Northern Region
+8,Rajasthan,89,Baran,Northern Region
+8,Rajasthan,90,Barmer,Northern Region
+8,Rajasthan,91,Bharatpur,Northern Region
+8,Rajasthan,92,Bhilwara,Northern Region
+8,Rajasthan,93,Bikaner,Northern Region
+8,Rajasthan,94,Bundi,Northern Region
+8,Rajasthan,95,Chittorgarh,Northern Region
+8,Rajasthan,96,Churu,Northern Region
+8,Rajasthan,97,Dausa,Northern Region
+8,Rajasthan,98,Dholpur,Northern Region
+8,Rajasthan,99,Dungarpur,Northern Region
+8,Rajasthan,100,Ganganagar,Northern Region
+8,Rajasthan,101,Hanumangarh,Northern Region
+8,Rajasthan,102,Jaipur,Northern Region
+8,Rajasthan,103,Jaisalmer,Northern Region
+8,Rajasthan,104,Jalore,Northern Region
+8,Rajasthan,105,Jhalawar,Northern Region
+8,Rajasthan,106,Jhunjhunu,Northern Region
+8,Rajasthan,107,Jodhpur,Northern Region
+8,Rajasthan,108,Karauli,Northern Region
+8,Rajasthan,109,Kota,Northern Region
+8,Rajasthan,110,Nagaur,Northern Region
+8,Rajasthan,111,Pali,Northern Region
+8,Rajasthan,629,Pratapgarh,Northern Region
+8,Rajasthan,112,Rajsamand,Northern Region
+8,Rajasthan,113,Sawai Madhopur,Northern Region
+8,Rajasthan,114,Sikar,Northern Region
+8,Rajasthan,115,Sirohi,Northern Region
+8,Rajasthan,116,Tonk,Northern Region
+8,Rajasthan,117,Udaipur,Northern Region
+11,Sikkim,225,East District,Eastern Region
+11,Sikkim,226,North District,Eastern Region
+11,Sikkim,742,Soreng,Eastern Region
+11,Sikkim,227,South District,Eastern Region
+11,Sikkim,228,West District,Eastern Region
+33,Tamil Nadu,610,Ariyalur,Southern Region
+33,Tamil Nadu,730,Chengalpattu,Southern Region
+33,Tamil Nadu,568,Chennai,Southern Region
+33,Tamil Nadu,569,Coimbatore,Southern Region
+33,Tamil Nadu,570,Cuddalore,Southern Region
+33,Tamil Nadu,571,Dharmapuri,Southern Region
+33,Tamil Nadu,572,Dindigul,Southern Region
+33,Tamil Nadu,573,Erode,Southern Region
+33,Tamil Nadu,729,Kallakurichi,Southern Region
+33,Tamil Nadu,574,Kanchipuram,Southern Region
+33,Tamil Nadu,575,Kanniyakumari,Southern Region
+33,Tamil Nadu,576,Karur,Southern Region
+33,Tamil Nadu,577,Krishnagiri,Southern Region
+33,Tamil Nadu,578,Madurai,Southern Region
+33,Tamil Nadu,735,Mayiladuthurai,Southern Region
+33,Tamil Nadu,579,Nagapattinam,Southern Region
+33,Tamil Nadu,580,Namakkal,Southern Region
+33,Tamil Nadu,581,Perambalur,Southern Region
+33,Tamil Nadu,582,Pudukkottai,Southern Region
+33,Tamil Nadu,583,Ramanathapuram,Southern Region
+33,Tamil Nadu,731,Ranipet,Southern Region
+33,Tamil Nadu,584,Salem,Southern Region
+33,Tamil Nadu,585,Sivaganga,Southern Region
+33,Tamil Nadu,733,Tenkasi,Southern Region
+33,Tamil Nadu,586,Thanjavur,Southern Region
+33,Tamil Nadu,587,The Nilgiris,Southern Region
+33,Tamil Nadu,588,Theni,Southern Region
+33,Tamil Nadu,589,Thiruvallur,Southern Region
+33,Tamil Nadu,590,Thiruvarur,Southern Region
+33,Tamil Nadu,591,Tiruchirappalli,Southern Region
+33,Tamil Nadu,592,Tirunelveli,Southern Region
+33,Tamil Nadu,732,Tirupathur,Southern Region
+33,Tamil Nadu,634,Tiruppur,Southern Region
+33,Tamil Nadu,593,Tiruvannamalai,Southern Region
+33,Tamil Nadu,594,Tuticorin,Southern Region
+33,Tamil Nadu,595,Vellore,Southern Region
+33,Tamil Nadu,596,Villupuram,Southern Region
+33,Tamil Nadu,597,Virudhunagar,Southern Region
+36,Telangana,501,Adilabad,Southern Region
+36,Telangana,690,Bhadradri Kothagudem,Southern Region
+36,Telangana,507,Hyderabad,Southern Region
+36,Telangana,681,Jagitial,Southern Region
+36,Telangana,689,Jangoan,Southern Region
+36,Telangana,687,Jayashankar Bhupalapally,Southern Region
+36,Telangana,695,Jogulamba Gadwal,Southern Region
+36,Telangana,685,Kamareddy,Southern Region
+36,Telangana,508,Karimnagar,Southern Region
+36,Telangana,509,Khammam,Southern Region
+36,Telangana,699,Kumuram Bheem Asifabad,Southern Region
+36,Telangana,688,Mahabubabad,Southern Region
+36,Telangana,512,Mahabubnagar,Southern Region
+36,Telangana,684,Mancherial,Southern Region
+36,Telangana,513,Medak,Southern Region
+36,Telangana,700,Medchal Malkajgiri,Southern Region
+36,Telangana,720,Mulugu,Southern Region
+36,Telangana,694,Nagarkurnool,Southern Region
+36,Telangana,514,Nalgonda,Southern Region
+36,Telangana,721,Narayanpet,Southern Region
+36,Telangana,680,Nirmal,Southern Region
+36,Telangana,516,Nizamabad,Southern Region
+36,Telangana,682,Peddapalli,Southern Region
+36,Telangana,683,Rajanna Sircilla,Southern Region
+36,Telangana,518,Ranga Reddy,Southern Region
+36,Telangana,691,Sangareddy,Southern Region
+36,Telangana,692,Siddipet,Southern Region
+36,Telangana,696,Suryapet,Southern Region
+36,Telangana,698,Vikarabad,Southern Region
+36,Telangana,693,Wanaparthy,Southern Region
+36,Telangana,522,Warangal Rural,Southern Region
+36,Telangana,686,Warangal Urban,Southern Region
+36,Telangana,697,Yadadri Bhuvanagiri,Southern Region
+38,The Dadra And Nagar Haveli And Daman And Diu,465,Dadra And Nagar Haveli,Western Region
+38,The Dadra And Nagar Haveli And Daman And Diu,463,Daman,Western Region
+38,The Dadra And Nagar Haveli And Daman And Diu,464,Diu,Western Region
+16,Tripura,269,Dhalai,North Eastern Region
+16,Tripura,654,Gomati,North Eastern Region
+16,Tripura,652,Khowai,North Eastern Region
+16,Tripura,270,North Tripura,North Eastern Region
+16,Tripura,653,Sepahijala,North Eastern Region
+16,Tripura,271,South Tripura,North Eastern Region
+16,Tripura,655,Unakoti,North Eastern Region
+16,Tripura,272,West Tripura,North Eastern Region
+9,Uttar Pradesh,118,Agra,Central Region
+9,Uttar Pradesh,119,Aligarh,Central Region
+9,Uttar Pradesh,121,Ambedkar Nagar,Central Region
+9,Uttar Pradesh,640,Amethi,Central Region
+9,Uttar Pradesh,154,Amroha,Central Region
+9,Uttar Pradesh,122,Auraiya,Central Region
+9,Uttar Pradesh,140,Ayodhya,Central Region
+9,Uttar Pradesh,123,Azamgarh,Central Region
+9,Uttar Pradesh,124,Baghpat,Central Region
+9,Uttar Pradesh,125,Bahraich,Central Region
+9,Uttar Pradesh,126,Ballia,Central Region
+9,Uttar Pradesh,649,Balrampur,Central Region
+9,Uttar Pradesh,128,Banda,Central Region
+9,Uttar Pradesh,129,Barabanki,Central Region
+9,Uttar Pradesh,130,Bareilly,Central Region
+9,Uttar Pradesh,131,Basti,Central Region
+9,Uttar Pradesh,179,Bhadohi,Central Region
+9,Uttar Pradesh,132,Bijnor,Central Region
+9,Uttar Pradesh,133,Budaun,Central Region
+9,Uttar Pradesh,134,Bulandshahr,Central Region
+9,Uttar Pradesh,135,Chandauli,Central Region
+9,Uttar Pradesh,136,Chitrakoot,Central Region
+9,Uttar Pradesh,137,Deoria,Central Region
+9,Uttar Pradesh,138,Etah,Central Region
+9,Uttar Pradesh,139,Etawah,Central Region
+9,Uttar Pradesh,141,Farrukhabad,Central Region
+9,Uttar Pradesh,142,Fatehpur,Central Region
+9,Uttar Pradesh,143,Firozabad,Central Region
+9,Uttar Pradesh,144,Gautam Buddha Nagar,Central Region
+9,Uttar Pradesh,145,Ghaziabad,Central Region
+9,Uttar Pradesh,146,Ghazipur,Central Region
+9,Uttar Pradesh,147,Gonda,Central Region
+9,Uttar Pradesh,148,Gorakhpur,Central Region
+9,Uttar Pradesh,17,Hamirpur,Central Region
+9,Uttar Pradesh,149,Hamirpur,Central Region
+9,Uttar Pradesh,661,Hapur,Central Region
+9,Uttar Pradesh,150,Hardoi,Central Region
+9,Uttar Pradesh,163,Hathras,Central Region
+9,Uttar Pradesh,151,Jalaun,Central Region
+9,Uttar Pradesh,152,Jaunpur,Central Region
+9,Uttar Pradesh,153,Jhansi,Central Region
+9,Uttar Pradesh,155,Kannauj,Central Region
+9,Uttar Pradesh,156,Kanpur Dehat,Central Region
+9,Uttar Pradesh,157,Kanpur Nagar,Central Region
+9,Uttar Pradesh,633,Kasganj,Central Region
+9,Uttar Pradesh,158,Kaushambi,Central Region
+9,Uttar Pradesh,159,Kheri,Central Region
+9,Uttar Pradesh,160,Kushi Nagar,Central Region
+9,Uttar Pradesh,161,Lalitpur,Central Region
+9,Uttar Pradesh,162,Lucknow,Central Region
+9,Uttar Pradesh,164,Maharajganj,Central Region
+9,Uttar Pradesh,165,Mahoba,Central Region
+9,Uttar Pradesh,166,Mainpuri,Central Region
+9,Uttar Pradesh,167,Mathura,Central Region
+9,Uttar Pradesh,168,Mau,Central Region
+9,Uttar Pradesh,169,Meerut,Central Region
+9,Uttar Pradesh,170,Mirzapur,Central Region
+9,Uttar Pradesh,171,Moradabad,Central Region
+9,Uttar Pradesh,172,Muzaffarnagar,Central Region
+9,Uttar Pradesh,173,Pilibhit,Central Region
+9,Uttar Pradesh,174,Pratapgarh,Central Region
+9,Uttar Pradesh,629,Pratapgarh,Central Region
+9,Uttar Pradesh,120,Prayagraj,Central Region
+9,Uttar Pradesh,175,Rae Bareli,Central Region
+9,Uttar Pradesh,176,Rampur,Central Region
+9,Uttar Pradesh,177,Saharanpur,Central Region
+9,Uttar Pradesh,659,Sambhal,Central Region
+9,Uttar Pradesh,178,Sant Kabeer Nagar,Central Region
+9,Uttar Pradesh,180,Shahjahanpur,Central Region
+9,Uttar Pradesh,660,Shamli,Central Region
+9,Uttar Pradesh,181,Shravasti,Central Region
+9,Uttar Pradesh,182,Siddharth Nagar,Central Region
+9,Uttar Pradesh,183,Sitapur,Central Region
+9,Uttar Pradesh,184,Sonbhadra,Central Region
+9,Uttar Pradesh,185,Sultanpur,Central Region
+9,Uttar Pradesh,186,Unnao,Central Region
+9,Uttar Pradesh,187,Varanasi,Central Region
+5,Uttarakhand,45,Almora,Central Region
+5,Uttarakhand,46,Bageshwar,Central Region
+5,Uttarakhand,47,Chamoli,Central Region
+5,Uttarakhand,48,Champawat,Central Region
+5,Uttarakhand,49,Dehradun,Central Region
+5,Uttarakhand,50,Haridwar,Central Region
+5,Uttarakhand,51,Nainital,Central Region
+5,Uttarakhand,52,Pauri Garhwal,Central Region
+5,Uttarakhand,53,Pithoragarh,Central Region
+5,Uttarakhand,54,Rudra Prayag,Central Region
+5,Uttarakhand,55,Tehri Garhwal,Central Region
+5,Uttarakhand,56,Udam Singh Nagar,Central Region
+5,Uttarakhand,57,Uttar Kashi,Central Region
+19,West Bengal,303,24 Paraganas North,Eastern Region
+19,West Bengal,304,24 Paraganas South,Eastern Region
+19,West Bengal,664,Alipurduar,Eastern Region
+19,West Bengal,305,Bankura,Eastern Region
+19,West Bengal,307,Birbhum,Eastern Region
+19,West Bengal,308,Coochbehar,Eastern Region
+19,West Bengal,309,Darjeeling,Eastern Region
+19,West Bengal,310,Dinajpur Dakshin,Eastern Region
+19,West Bengal,311,Dinajpur Uttar,Eastern Region
+19,West Bengal,312,Hooghly,Eastern Region
+19,West Bengal,313,Howrah,Eastern Region
+19,West Bengal,314,Jalpaiguri,Eastern Region
+19,West Bengal,703,Jhargram,Eastern Region
+19,West Bengal,702,Kalimpong,Eastern Region
+19,West Bengal,315,Kolkata,Eastern Region
+19,West Bengal,316,Maldah,Eastern Region
+19,West Bengal,317,Medinipur East,Eastern Region
+19,West Bengal,318,Medinipur West,Eastern Region
+19,West Bengal,319,Murshidabad,Eastern Region
+19,West Bengal,320,Nadia,Eastern Region
+19,West Bengal,704,Paschim Bardhaman,Eastern Region
+19,West Bengal,306,Purba Bardhaman,Eastern Region
+19,West Bengal,321,Purulia,Eastern Region
