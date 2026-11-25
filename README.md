@@ -4,7 +4,8 @@
 
 Indian banking credit, deposits, and branch expansion, analysed from genuine RBI BSR data, 2015 to 2023, using SQL Server for analysis and Advanced Excel for the dashboard.
 
-Image not found
+![Banking Dashboard](EXCEL-DASHBOARD/DASHBOARD.png)
+
 Project Overview
 
 This project analyses the credit and loan portfolio of Indian banks using genuine Reserve Bank of India (RBI) data. The work was done in two stages: SQL first, then Excel.
